@@ -1,0 +1,6 @@
+{
+  "name": "StoryWeaver Studio",
+  "description": "Creative writing studio powered by Gemini: visual scene and mood analysis, evocative story ghostwriting, expressive audio narration via Gemini TTS, and an interactive literary co-author chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
